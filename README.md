@@ -1,2 +1,2 @@
 # node-js-study
-Practice for Node.js
+Node.js practice.
