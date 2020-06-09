@@ -1,2 +1,2 @@
 # node-js-study
-Node.js practice.
+These are practical codes for Node.js study.
